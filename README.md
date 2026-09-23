@@ -1,5 +1,5 @@
 # ntKDE
-
+Okay so Quick intro about me I am just an enthusiast and I will admit this is 100% vibe coded but if anyone wants to help me out and help get this to a more usable state that would be fantastic
 ntKDE is a desktop shell replacement for Windows. It is not a Linux
 distribution, virtualization project, or WSL frontend.
 
