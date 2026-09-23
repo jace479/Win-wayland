@@ -1,0 +1,38 @@
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.exe
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.deps.json
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.runtimeconfig.json
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.dll
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.pdb
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.AssemblyInfoInputs.cache
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.AssemblyInfo.cs
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.csproj.CoreCompileInputs.cache
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\ntkde.dll
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\refint\ntkde.dll
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\ntkde.pdb
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.genruntimeconfig.cache
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\ref\ntkde.dll
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.exe
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.deps.json
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.runtimeconfig.json
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.dll
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.pdb
+D:\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.exe
+D:\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.deps.json
+D:\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.runtimeconfig.json
+D:\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.dll
+D:\WinKDE\host\DesktopSurfaceHost\bin\Release\net8.0-windows\ntkde.pdb
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.AssemblyInfoInputs.cache
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.AssemblyInfo.cs
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.csproj.CoreCompileInputs.cache
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\ntkde.dll
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\refint\ntkde.dll
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\ntkde.pdb
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\DesktopSurfaceHost.genruntimeconfig.cache
+D:\WinKDE\host\DesktopSurfaceHost\obj\Release\net8.0-windows\ref\ntkde.dll
+D:\WinKDE\bin\ntkde.exe
+D:\WinKDE\bin\ntkde.deps.json
+D:\WinKDE\bin\ntkde.runtimeconfig.json
+D:\WinKDE\bin\ntkde.dll
+D:\WinKDE\bin\ntkde.pdb

@@ -1,0 +1,5 @@
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.exe
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.dll
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.deps.json
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.runtimeconfig.json
+C:\Users\jace.zorn\OneDrive - Holmes District School Board\Documents\Coding Projects\WinKDE\bin\ntkde.pdb

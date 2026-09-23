@@ -1,0 +1,17 @@
+d:\WinKDE\host\DesktopSurfaceHost\bin\Debug\net8.0-windows10.0.19041.0\ntkde.exe
+d:\WinKDE\host\DesktopSurfaceHost\bin\Debug\net8.0-windows10.0.19041.0\ntkde.deps.json
+d:\WinKDE\host\DesktopSurfaceHost\bin\Debug\net8.0-windows10.0.19041.0\ntkde.runtimeconfig.json
+d:\WinKDE\host\DesktopSurfaceHost\bin\Debug\net8.0-windows10.0.19041.0\ntkde.dll
+d:\WinKDE\host\DesktopSurfaceHost\bin\Debug\net8.0-windows10.0.19041.0\ntkde.pdb
+d:\WinKDE\host\DesktopSurfaceHost\bin\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+d:\WinKDE\host\DesktopSurfaceHost\bin\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\DesktopSurfaceHost.GeneratedMSBuildEditorConfig.editorconfig
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\DesktopSurfaceHost.AssemblyInfoInputs.cache
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\DesktopSurfaceHost.AssemblyInfo.cs
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\DesktopSurfaceHost.csproj.CoreCompileInputs.cache
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\DesktopS.6EF5564C.Up2Date
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\ntkde.dll
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\refint\ntkde.dll
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\ntkde.pdb
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\DesktopSurfaceHost.genruntimeconfig.cache
+d:\WinKDE\host\DesktopSurfaceHost\obj\Debug\net8.0-windows10.0.19041.0\ref\ntkde.dll

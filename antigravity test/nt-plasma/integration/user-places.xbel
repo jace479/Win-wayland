@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel xmlns="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks">
+ <info>
+  <metadata owner="http://www.kde.org">
+   <kde_places_version>4</kde_places_version>
+   <GroupState-Places-IsHidden>false</GroupState-Places-IsHidden>
+   <GroupState-Remote-IsHidden>false</GroupState-Remote-IsHidden>
+   <GroupState-Devices-IsHidden>false</GroupState-Devices-IsHidden>
+   <GroupState-RemovableDevices-IsHidden>false</GroupState-RemovableDevices-IsHidden>
+   <GroupState-Tags-IsHidden>false</GroupState-Tags-IsHidden>
+   <withRecentlyUsed>true</withRecentlyUsed>
+   <GroupState-RecentlySaved-IsHidden>false</GroupState-RecentlySaved-IsHidden>
+   <withBaloo>true</withBaloo>
+   <GroupState-SearchFor-IsHidden>false</GroupState-SearchFor-IsHidden>
+  </metadata>
+ </info>
+ <bookmark href="file:///home/jace479">
+  <title>Home</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="user-home"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/0</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/jace479/Desktop">
+  <title>Desktop</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="user-desktop"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/1</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/jace479/Documents">
+  <title>Documents</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-documents"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/2</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/jace479/Downloads">
+  <title>Downloads</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-downloads"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/3</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/jace479/Music">
+  <title>Music</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-music"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/6</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/jace479/Pictures">
+  <title>Pictures</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-pictures"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/7</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///home/jace479/Videos">
+  <title>Videos</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-videos"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/8</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="remote:/">
+  <title>Network</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-network"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/4</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="trash:/">
+  <title>Trash</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="user-trash"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/5</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="recentlyused:/files">
+  <title>Recent Files</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="document-open-recent"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/9</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="recentlyused:/locations">
+  <title>Recent Locations</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-recent"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1787233704/10</ID>
+    <isSystemItem>true</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c">
+  <title>Windows (C:)</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="drive-harddisk-root"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000000</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c/Users/jace.zorn">
+  <title>Windows Home</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="user-home"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000001</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c/Users/jace.zorn/Desktop">
+  <title>Windows Desktop</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="user-desktop"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000002</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c/Users/jace.zorn/Downloads">
+  <title>Windows Downloads</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-downloads"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000003</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c/Users/jace.zorn/Documents">
+  <title>Windows Documents</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-documents"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000004</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c/Users/jace.zorn/Pictures">
+  <title>Windows Pictures</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-pictures"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000005</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c/Users/jace.zorn/Videos">
+  <title>Windows Videos</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-videos"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000006</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///mnt/c/Users/jace.zorn/.gemini/antigravity/scratch/kwin-win">
+  <title>Project KWin-Win</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <icon name="folder-development"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>2000000007</ID>
+    <isSystemItem>false</isSystemItem>
+   </metadata>
+  </info>
+ </bookmark>
+</xbel>

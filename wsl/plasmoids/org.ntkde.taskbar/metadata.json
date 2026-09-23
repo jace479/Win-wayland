@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.ntkde.taskbar",
+        "Name": "Icons-Only Task Manager",
+        "Description": "App bar displaying only icons for native Windows and Linux applications",
+        "Category": "Windows and Tasks",
+        "Icon": "preferences-system-windows",
+        "Authors": [
+            {
+                "Name": "ntKDE Project"
+            }
+        ]
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.multitasking"
+    ]
+}

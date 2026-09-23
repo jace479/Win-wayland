@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol name="nt_plasma_foreign_surface_v1">
+  <copyright>
+    NT-Plasma project protocol draft.
+  </copyright>
+
+  <interface name="nt_plasma_foreign_surface_manager_v1" version="1">
+    <description summary="Create host-owned foreign application surfaces">
+      The manager is advertised by the NT-Plasma compositor bridge. A desktop
+      client uses it to present a Windows application surface inside the KDE
+      desktop. The host remains responsible for the native process and window.
+    </description>
+
+    <request name="create_surface" type="new_id">
+      <description summary="Create one foreign surface"/>
+      <arg name="id" type="new_id" interface="nt_plasma_foreign_surface_v1"/>
+      <arg name="window_id" type="string"/>
+    </request>
+
+    <request name="destroy" type="destructor"/>
+  </interface>
+
+  <interface name="nt_plasma_foreign_surface_v1" version="1">
+    <description summary="A host-owned application surface">
+      A foreign surface has an immutable window identity. The compositor
+      controls placement and input routing; the host controls capture and
+      native window lifetime.
+    </description>
+
+    <request name="set_metadata">
+      <arg name="application_id" type="string"/>
+      <arg name="title" type="string"/>
+      <arg name="width" type="uint"/>
+      <arg name="height" type="uint"/>
+      <arg name="monitor" type="uint"/>
+    </request>
+
+    <request name="attach_frame">
+      <description summary="Attach a frame for compositor presentation">
+        The buffer must use the compositor's negotiated format and dimensions.
+        The frame sequence is strictly increasing.
+      </description>
+      <arg name="buffer" type="object" interface="wl_buffer"/>
+      <arg name="width" type="uint"/>
+      <arg name="height" type="uint"/>
+      <arg name="sequence" type="uint"/>
+    </request>
+
+    <request name="set_state">
+      <arg name="state" type="uint" summary="bitmask: minimized, maximized, fullscreen"/>
+    </request>
+
+    <event name="configure">
+      <arg name="serial" type="uint"/>
+      <arg name="width" type="uint"/>
+      <arg name="height" type="uint"/>
+    </event>
+
+    <event name="focus"/>
+    <event name="close"/>
+    <event name="frame_rejected">
+      <arg name="sequence" type="uint"/>
+      <arg name="reason" type="string"/>
+    </event>
+  </interface>
+</protocol>

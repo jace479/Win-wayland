@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Windows Application Executor
+GenericName=Windows Executable
+Comment=Run or install application natively on Windows
+Exec=launch-windows-app %f
+MimeType=application/x-ms-dos-executable;application/x-msdownload;application/x-msi;application/x-bat;
+Icon=application-x-ms-dos-executable
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true
+NoDisplay=false

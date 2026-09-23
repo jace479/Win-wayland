@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+47665a307ce25c33dca48cfcaf2e5cff CMakeFiles/fetch-translations
+5860f05dd5cf56eae793f5dc6e7d1911 CMakeFiles/uninstall
+f31f20ce36517fb304b4c3de79ca9d2a CMakeFiles/winget-backend_autogen
+93f506a95a8294639ec8348722cf7343 releaseme
+5c24eba4caffaf4bbfd3c81387514baf winget-backend_autogen/timestamp

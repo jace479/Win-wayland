@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+  <Menu>
+    <Name>Windows Applications</Name>
+    <Icon>application-x-ms-dos-executable</Icon>
+    <Categories>
+      <Category>All</Category>
+    </Categories>
+
+    <Menu>
+      <Name>Internet &amp; Web</Name>
+      <Icon>applications-internet</Icon>
+      <Include>
+        <Category>Network</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Development</Name>
+      <Icon>applications-development</Icon>
+      <Include>
+        <Category>Development</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Multimedia</Name>
+      <Icon>applications-multimedia</Icon>
+      <Include>
+        <Category>AudioVideo</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Graphics &amp; Photo</Name>
+      <Icon>applications-graphics</Icon>
+      <Include>
+        <Category>Graphics</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Office &amp; Productivity</Name>
+      <Icon>applications-office</Icon>
+      <Include>
+        <Category>Office</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Games</Name>
+      <Icon>applications-games</Icon>
+      <Include>
+        <Category>Game</Category>
+      </Include>
+    </Menu>
+
+    <Menu>
+      <Name>Utilities &amp; System</Name>
+      <Icon>applications-utilities</Icon>
+      <Include>
+        <Category>Utility</Category>
+        <Category>System</Category>
+      </Include>
+    </Menu>
+  </Menu>
+</Menu>

@@ -1,0 +1,12 @@
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/uninstall.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/fetch-translations.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/winget-backend.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/test.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/edit_cache.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/list_install_components.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/install.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/install/local.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/install/strip.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/winget-backend_autogen_timestamp_deps.dir
+/mnt/d/WinKDE/wsl/discover-winget-backend/build/CMakeFiles/winget-backend_autogen.dir

@@ -1,0 +1,1 @@
+Get-Process | Where-Object { $_.MainWindowTitle -like "*ntKDE*" -or $_.MainWindowTitle -like "*Plasma*" -or $_.MainWindowTitle -like "*Xephyr*" } | Select-Object Id, ProcessName, MainWindowTitle, MainWindowHandle | Format-Table -AutoSize

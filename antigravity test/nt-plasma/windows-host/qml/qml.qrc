@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainShell.qml</file>
+        <file>DesktopWindow.qml</file>
+        <file>TaskbarWindow.qml</file>
+        <file>TaskbarPanel.qml</file>
+        <file>KickoffWindow.qml</file>
+        <file>KdeMenu.qml</file>
+        <file>WindowDecorationOverlay.qml</file>
+        <file>icons/discover.png</file>
+        <file>icons/dolphin.png</file>
+        <file>icons/firefox.png</file>
+        <file>icons/kate.png</file>
+        <file>icons/konsole.png</file>
+        <file>icons/krunner.png</file>
+        <file>icons/libreoffice-calc.png</file>
+        <file>icons/libreoffice-writer.png</file>
+        <file>icons/steam.png</file>
+        <file>icons/sysmon.png</file>
+        <file>icons/systemsettings.png</file>
+    </qresource>
+</RCC>

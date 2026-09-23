@@ -1,0 +1,13 @@
+2026-09-09 14:41:08.348 [Main] Starting Project KWin-Win...
+2026-09-09 14:41:08.361 [UwpLauncher] Shell Infrastructure Host (sihost.exe) is already active.
+2026-09-09 14:41:08.395 [TrayBridge] Desktop work area updated to reserve 48 px panel space.
+2026-09-09 14:41:08.395 [TrayBridge] Shell_TrayWnd dummy window active and TaskbarCreated broadcasted.
+2026-09-09 14:41:08.395 [HookEngine] WinEvent hooks successfully installed.
+2026-09-09 14:41:11.472 [AppModel] Successfully indexed 204 applications ( 204 matching filter).
+2026-09-09 14:41:11.928 [Main] Pinned KDE Desktop Canvas on screen "DELL P2417H" to HWND_BOTTOM with subclass: 0x150a3a
+2026-09-09 14:41:11.941 [Main] Pinned KDE Desktop Canvas on screen "DELL P2217 (1)" to HWND_BOTTOM with subclass: 0xf01b0
+2026-09-09 14:41:11.945 [Main] Pinned KDE Desktop Canvas on screen "DELL P2217 (2)" to HWND_BOTTOM with subclass: 0xde01ba
+2026-09-09 14:41:11.950 [Main] Pinned KDE Desktop Canvas on screen "DELL P2217 (3)" to HWND_BOTTOM with subclass: 0x1301a6
+2026-09-09 14:41:11.954 [Main] Pinned KDE Desktop Canvas on screen "2360" to HWND_BOTTOM with subclass: 0x1001ae
+2026-09-09 14:41:11.963 [Main] Configured KDE Floating Taskbar at HWND_TOPMOST: 0x1c0f9a
+2026-09-09 14:41:12.004 [Main] Configured KDE Kickoff Menu Window at HWND_TOPMOST: 0x770a64

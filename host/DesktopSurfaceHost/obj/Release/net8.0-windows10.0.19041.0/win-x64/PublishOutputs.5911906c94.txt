@@ -1,0 +1,7 @@
+D:\WinKDE\bin\ntkde.exe
+D:\WinKDE\bin\ntkde.dll
+D:\WinKDE\bin\ntkde.deps.json
+D:\WinKDE\bin\ntkde.runtimeconfig.json
+D:\WinKDE\bin\ntkde.pdb
+D:\WinKDE\bin\Microsoft.Windows.SDK.NET.dll
+D:\WinKDE\bin\WinRT.Runtime.dll
